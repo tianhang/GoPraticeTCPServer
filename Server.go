@@ -31,7 +31,7 @@ func main() {
 	println("server start ...")
 	ln,err := net.Listen("tcp",":15440")
 	handleError(err)
-	var maxRoutineNum = make(chan int ,10)
+	var maxRoutineNum = make(chan int ,5)
 	connNum := 0;
 	for{
 

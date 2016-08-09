@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoPratice.iml" filepath="$PROJECT_DIR$/GoPratice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GoTcpServerPratice.iml" filepath="$PROJECT_DIR$/GoTcpServerPratice.iml" />
     </modules>
   </component>
 </project>
